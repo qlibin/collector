@@ -13,10 +13,10 @@
     "node": "0.8.x",
     "npm": "1.1.x"
   },
-//  "repository": {
-//    "type": "git",
-//    "url": "https://github.com/heroku/node-js-sample"
-//  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qlibin/collector"
+  },
   "keywords": [
     "node",
     "heroku"
