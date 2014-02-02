@@ -1,16 +1,16 @@
 {
   "name": "collector",
   "version": "0.0.1",
-  "description": "a sample node.js app for heroku",
+  "description": "collector of web pieces",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "2.5.x"
+    "express": "3.4.x"
   },
   "engines": {
-    "node": "0.8.x",
+    "node": ">=0.8",
     "npm": "1.1.x"
   },
   "repository": {
